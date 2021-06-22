@@ -4,6 +4,6 @@ Interested mostly in Music Business applications and Data Science, but am also i
 
 I am currently learning SQL, Tableau, and R through Google Data Analytics Professional Certificate, but have previously worked with the software in smaller school projects.
 
-Reach me on LinkedIn: 
+Reach me on LinkedIn: https://www.linkedin.com/in/tmtrentmoore/
 
 Email: trentonamoore98@gmail.com

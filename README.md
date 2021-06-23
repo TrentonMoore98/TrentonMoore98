@@ -6,4 +6,4 @@ I am currently learning SQL, Tableau, and R through Google Data Analytics Profes
 
 Reach me on LinkedIn: https://www.linkedin.com/in/tmtrentmoore/
 
-Email: trentonamoore98@gmail.com
+Email: TrentonAMoore98@gmail.com

@@ -14,6 +14,9 @@ Studied in Marketing, Advertising, and Retail analytics. I'm interested in diffe
 ## Skills
 
 * SQL - Using SQL to uncover insights about business problems.
+&nbsp;
+
+
 * Tableau - Skilled dashboard creator. Know how to create interactive dashboards, so stakeholders and business partners can interact and provide a feedback loop for the most effective dashboard for good decision making.
 * Excel - Intermediate excel user. Data cleaning, processing and analysis. Data Analysis Toolpak experience. 
 * RStudio, RPubs - Beginner knowledge coding in RStudio, utilziing libraries such as ggplot, tidyverse, and others to clean, analyze, and visualize data. 

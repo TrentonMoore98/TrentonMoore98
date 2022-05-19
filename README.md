@@ -27,7 +27,6 @@
 ## Let's talk
 
 * ### [LinkedIn](https://www.linkedin.com/in/tmtrentmoore/) - Connect with me, and get to know my professional background and experience
-
 &nbsp;
 
 

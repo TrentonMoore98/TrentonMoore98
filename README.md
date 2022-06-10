@@ -1,12 +1,18 @@
 # My name Is Trenton Moore, Data Lover who hikes on the weekends and plays piano.
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 # Practiced in Marketing, Advertising, and Retail analytics. I'm interested in different business domains beyond these as well, and analytics/data science/ML Ops as a whole!
 
 &nbsp;
 
 ---
+
+&nbsp;
 
 # **Experience**
 ## [*CLICK HERE* To view every project I've worked on](https://trentonamoore98.wordpress.com/projects-2/)
@@ -28,6 +34,8 @@
 
 ---
 
+&nbsp;
+
 # **Skills**
 
 * ## **SQL** - Using SQL to uncover insights about business problems.
@@ -42,12 +50,10 @@
 
 ---
 
+&nbsp;
+
 # **Let's Connect!**
 
 * ## [LinkedIn](https://www.linkedin.com/in/tmtrentmoore/) - Connect with me, and get to know my professional background and experience
 * ## [Tableau Public](https://public.tableau.com/profile/trenton.moore4482#!/?newProfile=&activeTab=0) - My public dashboards created in Tableau
 * ## Portfolio - https://trentonamoore98.wordpress.com/
-
-
-
-

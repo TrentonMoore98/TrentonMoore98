@@ -3,7 +3,7 @@
 # Practiced in Marketing, Advertising, and Retail analytics. I'm interested in different business domains beyond these as well, and analytics/data science/ML Ops as a whole!
 
 &nbsp;
-# Experience
+# **Experience**
 * ## **[Data Projects](https://github.com/TrentonMoore98/Data-Projects_TrentonMoore)** 
 
 * ## **Bachelor's in Science (BIS) in Media Innovation and Design Thinking, Georgia State University, December 2019.** I studied innovation and disruption in industries, and applying high-level business concepts to identifying and solving business problems creatively. [Click here to check out my courseload and school projects.](https://wordpress.com/page/trentonamoore98.wordpress.com/235)
@@ -12,7 +12,7 @@
 * ### **SQL for Data Science Course, UC Davis.** - Currently enrolled as of April 2, 2022. I'm taking this course to further develop my skills in SQL. 
 
 &nbsp;
-# Skills
+# **Skills**
 
 * ## **SQL** - Using SQL to uncover insights about business problems.
 
@@ -23,7 +23,7 @@
 * ## **RStudio, RPubs** - Beginner knowledge coding in RStudio, utilziing libraries such as ggplot, tidyverse, and others to clean, analyze, and visualize data. 
 
 &nbsp;
-# Let's Connect
+# **Let's Connect!**
 
 * ## [LinkedIn](https://www.linkedin.com/in/tmtrentmoore/) - Connect with me, and get to know my professional background and experience
 * ## [Tableau Public](https://public.tableau.com/profile/trenton.moore4482#!/?newProfile=&activeTab=0) - My public dashboards created in Tableau

@@ -1,5 +1,4 @@
 # My name Is Trenton Moore, Data Lover who hikes on the weekends and plays piano.
-
 ---
 
 # Practiced in Marketing, Advertising, and Retail analytics. I'm interested in different business domains beyond these as well, and analytics/data science/ML Ops as a whole!

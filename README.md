@@ -16,7 +16,7 @@
 
 * ## **SQL** - Using SQL to uncover insights about business problems.
 
-* ## **Google Cloud Platform**
+* ## **Google Cloud Platform** - Writing SQL queries in Google BigQuery and Google Data Studio.
 
 * ## **Tableau** - Skilled dashboard creator. Know how to create interactive dashboards, so stakeholders and business partners can interact and provide a feedback loop for the most effective dashboard for good decision making.
 * ## **Excel** - Intermediate excel user. Data cleaning, processing and analysis. Data Analysis Toolpak experience. 

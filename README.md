@@ -1,8 +1,4 @@
-# My name Is Trenton Moore, Data Lover who hikes on the weekends and plays piano.
-
-&nbsp;
-
----
+# My name Is Trenton Moore, Data Lover who hikes on the weekends and plays piano!
 
 &nbsp;
 

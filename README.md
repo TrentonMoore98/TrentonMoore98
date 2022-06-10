@@ -4,7 +4,7 @@
 
 &nbsp;
 # **Experience**
-* ## **[Data Projects](https://github.com/TrentonMoore98/Data-Projects_TrentonMoore)** 
+* ## **[Data Projects!!](https://github.com/TrentonMoore98/Data-Projects_TrentonMoore)** 
 
 * ## **Bachelor's in Science (BIS) in Media Innovation and Design Thinking, Georgia State University, December 2019.** I studied innovation and disruption in industries, and applying high-level business concepts to identifying and solving business problems creatively. [Click here to check out my courseload and school projects.](https://wordpress.com/page/trentonamoore98.wordpress.com/235)
 

@@ -1,10 +1,10 @@
-## My name Is Trenton Moore, Data Lover who hikes on the weekends and plays piano.
+# My name Is Trenton Moore, Data Lover who hikes on the weekends and plays piano.
 
-## Practiced in Marketing, Advertising, and Retail analytics. I'm interested in different business domains beyond these as well, and analytics/data science/ML Ops as a whole!
+# Practiced in Marketing, Advertising, and Retail analytics. I'm interested in different business domains beyond these as well, and analytics/data science/ML Ops as a whole!
 
 &nbsp;
-## Experience
-* ### **Data Projects** 
+# Experience
+* ## **[Data Projects](https://github.com/TrentonMoore98/Data-Projects_TrentonMoore)** 
 
 * ### **Bachelor's in Science (BIS) in Media Innovation and Design Thinking, Georgia State University, December 2019.** I studied innovation and disruption in industries, and applying high-level business concepts to identifying and solving business problems creatively. [Click here to check out my courseload and school projects.](https://wordpress.com/page/trentonamoore98.wordpress.com/235)
 

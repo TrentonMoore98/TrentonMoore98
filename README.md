@@ -5,6 +5,9 @@
 # Practiced in Marketing, Advertising, and Retail analytics. I'm interested in different business domains beyond these as well, and analytics/data science/ML Ops as a whole!
 
 &nbsp;
+
+---
+
 # **Experience**
 * ## **[Data Projects!!](https://github.com/TrentonMoore98/Data-Projects_TrentonMoore)** 
 
@@ -14,6 +17,9 @@
 * ### **SQL for Data Science Course, UC Davis.** - Currently enrolled as of April 2, 2022. I'm taking this course to further develop my skills in SQL. 
 
 &nbsp;
+
+---
+
 # **Skills**
 
 * ## **SQL** - Using SQL to uncover insights about business problems.
@@ -25,6 +31,9 @@
 * ## **RStudio, RPubs** - Beginner knowledge coding in RStudio, utilziing libraries such as ggplot, tidyverse, and others to clean, analyze, and visualize data. 
 
 &nbsp;
+
+---
+
 # **Let's Connect!**
 
 * ## [LinkedIn](https://www.linkedin.com/in/tmtrentmoore/) - Connect with me, and get to know my professional background and experience

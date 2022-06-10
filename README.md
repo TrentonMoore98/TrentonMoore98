@@ -6,12 +6,16 @@
 
 &nbsp;
 
+[Click here to view my GitHub Data Projects Repository.](https://github.com/TrentonMoore98/Data-Projects_TrentonMoore)
+
+&nbsp;
+
 ---
 
 &nbsp;
 
 # **Experience**
-## [*CLICK HERE* To view every project I've worked on](https://trentonamoore98.wordpress.com/projects-2/)
+## [*CLICK HERE* To view every project I've worked on my website](https://trentonamoore98.wordpress.com/projects-2/)
 
 &nbsp;
 

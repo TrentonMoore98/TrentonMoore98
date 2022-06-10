@@ -6,7 +6,7 @@
 
 &nbsp;
 
-[Click here to view my GitHub Data Projects Repository.](https://github.com/TrentonMoore98/Data-Projects_TrentonMoore)
+# **[Click here to view my GitHub Data Projects Repository.](https://github.com/TrentonMoore98/Data-Projects_TrentonMoore)**
 
 &nbsp;
 

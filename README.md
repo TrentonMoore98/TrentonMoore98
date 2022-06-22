@@ -1,8 +1,8 @@
-# My name Is Trenton Moore, Data Lover who hikes on the weekends and plays piano!
+# My name Is Trenton Moore, Data Lover who runs 4 10ks a week and plays piano! I love uncovering insights from data as much as I do running on new nature trails.
 
 &nbsp;
 
-# Practiced in Marketing, Advertising, and Retail analytics. I'm interested in different business domains beyond these as well, and analytics/data science/ML Ops as a whole!
+# Experienced in Marketing, Advertising, and Retail analytics. I'm interested in different business domains beyond these as well, and analytics/data science/ML Ops as a whole!
 
 &nbsp;
 
@@ -26,9 +26,9 @@
 
 ---
 
-* ## **Bachelor's in Science (BIS) in Media Innovation and Design Thinking, Georgia State University, December 2019.** I studied innovation and disruption in industries, and applying high-level business concepts to identifying and solving business problems creatively. [Click here to check out my courseload and school projects.](https://trentonamoore98.wordpress.com/georgia-state-university-courses/)
-* ## **Google Data Analytics Professional Certificate, January 25, 2022.** This course gave me a high-level overview of applying a technical mindset to business problems with analytics utilizing programs such as Excel (Data Analysis Toolpak), SQL (BigQuery), RStudio, and Tableau. [Click here to view my certificate.](https://trentonamoore98.wordpress.com/google-data-analytics-certificate-learning-log-trenton-moore/)
-* ## **SQL for Data Science Course, UC Davis.** - Currently enrolled as of April 2, 2022. I'm taking this course to further develop my skills in SQL. 
+* ## **[December 2019] Bachelor's in Science (BIS) in Media Innovation and Design Thinking, Georgia State University, December 2019.** I studied innovation and disruption in industries, and applying high-level business concepts to identifying and solving business problems creatively. [Click here to check out my courseload and school projects.](https://trentonamoore98.wordpress.com/georgia-state-university-courses/)
+* ## **[January 2022] Google Data Analytics Professional Certificate, January 25, 2022.** This course gave me a high-level overview of applying a technical mindset to business problems with analytics utilizing programs such as Excel (Data Analysis Toolpak), SQL (BigQuery), RStudio, and Tableau. [Click here to view my certificate.](https://trentonamoore98.wordpress.com/google-data-analytics-certificate-learning-log-trenton-moore/)
+* ## **[June 2022] SQL for Data Science Course, UC Davis.** - [Click here to view certificate](https://coursera.org/share/896dfda3ba0e82be911e290f31f92d8f) - Course focused on intermediate SQL syntax and querying. LIKE clause, Data Profiling, transactional databases, Entity Relationship Diagram.  
 
 &nbsp;
 

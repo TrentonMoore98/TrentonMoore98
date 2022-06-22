@@ -1,4 +1,4 @@
-# My name Is Trenton Moore, Data Lover who runs 4 10ks a week and plays piano! I love uncovering insights from data as much as I do running on new nature trails.
+# My name Is Trenton Moore, Data Lover who runs 10ks 4 times a week and plays piano! I love uncovering insights from data as much as I do running on new nature trails.
 
 &nbsp;
 
